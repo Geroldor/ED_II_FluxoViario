@@ -86,7 +86,7 @@ int getTotalNodes(Digraph g);
     numero maximo informado em createGraph.
     Retorna o n� criado.
  */
-Node addNode(Digraph g, char *nome, Info info);
+Node addNode(Digraph g, char *nome, int x, int y);
 
 
 /*
